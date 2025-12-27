@@ -1,4 +1,10 @@
-## Hello, I'm Bambi. 🌿
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Hello, I'm Bambi. 🌿</h1>
+    </summary>
+  </ul>
+</div>
 
 🦌 24-year-old Computer & Information Science Engineer  
 💻 Interested in games, tools, and building cool projects  
@@ -9,12 +15,12 @@
 ### 🛠️ Tech & Tools
 - Languages: `Python`, `C`, `Java`, `JavaScript`, `HTML`, `CSS`, `MATLAB`, `SQL`
 - Tools: `Git`, `GitHub`, `VS Code`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`
-- OS: `Linux Omarchy` (primary), `Windows 11`
+- OS: `Linux Omarchy` *(primary)*, `Windows 11`
 
 ### 📂 Featured Projects
-- 🦠 **RTVCM** – Created a 3D cytosol shader generator
-- 🐾 **Clangen** – Contributed bug fixes and improvements
-- 🪽 **Alicia Online** – Former web developer
+- [**RTVCM**](https://github.com/bambiroe/RTVCM) – Created a 3D cytosol shader generator
+- [**ClanGen**](https://github.com/ClanGenOfficial/clangen) – Contributed bug fixes and improvements
+- [**Story of Alicia**](https://github.com/Story-Of-Alicia) – Former web developer
 
 <!--
 ### 📈 GitHub Stats
@@ -28,4 +34,4 @@
 
 ---
 
-✨ Thanks for stopping by!
+Thanks for stopping by! ✨
