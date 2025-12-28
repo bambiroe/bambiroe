@@ -6,9 +6,9 @@
   </ul>
 </div>
 
-🦌 A 24-year-old Computer & Information Science Engineer  
-💻 Enjoy building games, tools, and small creative projects 
-🌙 Love blending technology with art, nature, and a touch of magic
+🦌 A 24-year-old Computer & Information Science Engineer<br>
+💻 Enjoy building games, tools, and small creative projects<br>
+🌙 Love blending technology with art, nature, and a touch of magic<br>
 🌱 Always excited to learn and improve
 
 ---
