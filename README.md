@@ -19,7 +19,8 @@
 - OS: `Linux Omarchy` *(primary)*, `Windows 11`
 
 ### 📦 Featured Projects
-- [**Grimoire.ts**](https://bambiroe.github.io/grimoire-ts/) – Currently working on a digital grimoire
+- [**Grimoire.ts**](https://bambiroe.github.io/grimoire-ts/) – A digital grimoire, built with TypeScript
+- [**RTVCMv2**](https://bambiroe.github.io/RTVCMv2/) – Experimental WebGPU-based RTVCM v2 _(early prototype)_
 - [**RTVCM**](https://github.com/bambiroe/RTVCM) – Created a real-time visual cytosol model _(private)_
 - [**ClanGen**](https://github.com/ClanGenOfficial/clangen/commits?author=bambiroe) – Contributed bug fixes and UI improvements
 
