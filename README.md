@@ -19,10 +19,10 @@
 - OS: `Linux Omarchy` *(primary)*, `Windows 11`
 
 ### 📦 Featured Projects
-- [**Grimoire.ts**](https://bambiroe.github.io/grimoire-ts/) – A digital grimoire, built with TypeScript
+- [**Grimoire.ts**](https://bambiroe.github.io/grimoire-ts/) – Digital grimoire, written in TypeScript
+- [**Fern Fren**](https://bambiroe.github.io/fern-fren/) - Cute little plant care app _(in progress)_
 - [**RTVCMv2**](https://bambiroe.github.io/RTVCMv2/) – Experimental WebGPU-based RTVCM v2 _(early prototype)_
-- [**RTVCM**](https://github.com/bambiroe/RTVCM) – Created a real-time visual cytosol model _(private)_
-- [**ClanGen**](https://github.com/ClanGenOfficial/clangen/commits?author=bambiroe) – Contributed bug fixes and UI improvements
+- [**RTVCM**](https://github.com/bambiroe/RTVCM) – Real-Time Visual Cytosol Model _(private)_
 
 <!--
 ### 📈 GitHub Stats
