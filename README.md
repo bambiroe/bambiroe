@@ -14,8 +14,8 @@
 ---
 
 ### 🛠️ Tech & Tools
-- Languages: `Python`, `C`, `Java`, `JavaScript`, `HTML`, `CSS`, `MATLAB`, `SQL`
-- Tools: `Git`, `GitHub`, `VS Code`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`
+- Languages: `Bash`, `Python`, `C/C++`, `C#`, `Java`, `JavaScript/TypeScript`, `HTML`, `CSS`, `MATLAB`, `SQL`, `OCaml`
+- Tools: `Git`, `GitHub`, `VS Code/VS Codium`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`, `Godot`, `Unity`, `Unreal Engine`
 - OS: `Linux Omarchy` *(primary)*, `Windows 11`
 
 ### 📦 Featured Projects
