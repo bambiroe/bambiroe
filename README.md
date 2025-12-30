@@ -22,13 +22,13 @@
 <table>
   <tr>
     <td><a href="https://bambiroe.github.io/grimoire-ts/">Grimoire.ts</a></td>
-    <td>Digital grimoire, written in TypeScript</td>
+    <td>Grimoire web app, written in TypeScript</td>
     <td><b>Complete</b></td>
   </tr>
   <tr>
     <td><a href="https://bambiroe.github.io/fern-fren/">Fern Fren</a></td>
-    <td>Cute plant care web app</td>
-    <td><b>In Progress</b></td>
+    <td>Plant care simulator web app</td>
+    <td><b>In progress</b></td>
   </tr>
   <tr>
     <td><a href="https://bambiroe.github.io/RTVCMv2/">RTVCMv2</a></td>
