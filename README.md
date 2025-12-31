@@ -6,9 +6,9 @@
   </ul>
 </div>
 
-🌿 A 24-year-old Computer & Information Science Engineer<br>
-🌱 Enjoy building games, tools, and small creative projects<br>
-🌿 Love blending technology with art, nature, and a touch of magic<br>
+🌿 A 24-year-old Computer & Information Science Engineer<br />
+🌱 Enjoy building games, tools, and small creative project<br />
+🌿 Love blending technology with art, nature, and a bit of magick<br />
 🌱 Always excited to learn and improve
 
 ---
@@ -18,7 +18,7 @@
 - Tools: `Git`, `GitHub`, `VS Code/VS Codium`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`, `Godot`, `Unity`, `Unreal Engine`
 - OS: `Linux Omarchy` *(primary)*, `Windows 11`
 
-### 📦 Featured Projects
+### 🧺 Featured Projects
 <table>
   <tr>
     <td><a href="https://bambiroe.github.io/grimoire-ts/">Grimoire.ts</a></td>
@@ -42,16 +42,11 @@
   </tr>
 </table>
 
-<!--
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bambiroe&show_icons=true&theme=tokyonight)
--->
-
-### 🕯️ Get in Touch
-- GitHub: [@bambiroe](https://github.com/bambiroe)
-- GitLab: [@bambiroe](https://gitlab.com/bambiroe)
-- UserStyles: [@bambiroe](https://userstyles.world/user/bambiroe)
+### ✨ Get in Touch
+- [@bambiroe](https://github.com/bambiroe) - GitHub
+- [@bambiroe](https://gitlab.com/bambiroe) - GitLab
+- [@bambiroe](https://userstyles.world/user/bambiroe) - UserStyles
 
 ---
 
-Thanks for stopping by! ✨
+Thanks for stopping by!
