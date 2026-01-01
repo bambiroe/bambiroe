@@ -22,23 +22,18 @@
 <table>
   <tr>
     <td><a href="https://bambiroe.github.io/grimoire-ts/">Grimoire.ts</a></td>
-    <td>Grimoire web app, written in TypeScript</td>
+    <td>Digital grimoire, written in TypeScript</td>
     <td><b>Complete</b></td>
   </tr>
   <tr>
     <td><a href="https://bambiroe.github.io/fern-fren/">Fern Fren</a></td>
-    <td>Plant care simulator web app</td>
-    <td><b>In progress</b></td>
+    <td>Plant care simulator app</td>
+    <td><b>Semi-Complete</b></td>
   </tr>
   <tr>
-    <td><a href="https://bambiroe.github.io/RTVCMv2/">RTVCMv2</a></td>
-    <td>Experimental 2nd generation RTVCM</td>
-    <td><b>Prototype</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/bambiroe/RTVCM">RTVCM</a></td>
-    <td>Real-time visual cytosol model</td>
-    <td><b>Private</b></td>
+    <td><a href="https://bambiroe.github.io/wildwave/">Wildwave</a></td>
+    <td>Animal sound visualisation, using p5.js</td>
+    <td><b>Complete</b></td>
   </tr>
 </table>
 
