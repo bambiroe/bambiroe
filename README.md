@@ -1,47 +1,46 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h1>Hello, I'm Bambi. 🦌</h1>
+      <h1>hello, i'm bambi. 🦌</h1>
     </summary>
   </ul>
 </div>
 
-🌿 A 24-year-old Computer & Information Science Engineer<br />
-🌱 Enjoy building games, tools, and small creative project<br />
-🌿 Love blending technology with art, nature, and a bit of magick<br />
-🌱 Always excited to learn and improve
+🌿 a 24-year-old computer & information science engineer<br />
+🌱 enjoy building games, tools, and small creative project<br />
+🌿 always happy to learn and improve
 
 ---
 
-### 🌙 Tech & Tools
-- Languages: `Bash`, `Python`, `C/C++`, `C#`, `Java`, `JavaScript/TypeScript`, `HTML`, `CSS`, `MATLAB`, `SQL`, `OCaml`
-- Tools: `Git`, `GitHub`, `VS Code/VS Codium`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`, `Godot`, `Unity`, `Unreal Engine`
-- OS: `Linux Omarchy` *(primary)*, `Windows 11`
+### 🌙 tech & tools
+- languages: `Bash`, `Python`, `C/C++`, `C#`, `Java`, `JavaScript/TypeScript`, `HTML`, `CSS`, `MATLAB`, `SQL`, `OCaml`
+- tools: `Git`, `GitHub`, `VS Code/VS Codium`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`, `Godot`, `Unity`, `Unreal Engine`
+- os: `Linux Omarchy` *(primary)*, `Windows 11`
 
-### 🧺 Featured Projects
+### 🧺 featured projects
 <table>
   <tr>
-    <td><a href="https://bambiroe.github.io/grimoire-ts/">Grimoire.ts</a></td>
-    <td>Digital grimoire, written in TypeScript</td>
-    <td><b>Complete</b></td>
+    <td><a href="https://bambiroe.github.io/grimoire-ts/">grimoire.ts</a></td>
+    <td>digital grimoire, written in typescript</td>
+    <td><b>complete</b></td>
   </tr>
   <tr>
-    <td><a href="https://bambiroe.github.io/fern-fren/">Fern Fren</a></td>
-    <td>Plant care simulator app</td>
-    <td><b>Semi-Complete</b></td>
+    <td><a href="https://bambiroe.github.io/fern-fren/">fern fren</a></td>
+    <td>plant care simulator app</td>
+    <td><b>semi-complete</b></td>
   </tr>
   <tr>
-    <td><a href="https://bambiroe.github.io/wildwave/">Wildwave</a></td>
-    <td>Animal sound visualisation, using p5.js</td>
-    <td><b>Complete</b></td>
+    <td><a href="https://bambiroe.github.io/wildwave/">wildwave</a></td>
+    <td>animal sound visualisation, using p5.js</td>
+    <td><b>complete</b></td>
   </tr>
 </table>
 
-### ✨ Get in Touch
-- [@bambiroe](https://github.com/bambiroe) - GitHub
-- [@bambiroe](https://gitlab.com/bambiroe) - GitLab
-- [@bambiroe](https://userstyles.world/user/bambiroe) - UserStyles
+### ✨ contact me
+- [@bambiroe](https://github.com/bambiroe) - github
+- [@bambiroe](https://gitlab.com/bambiroe) - gitlab
+- [@bambiroe](https://userstyles.world/user/bambiroe) - userstyles
 
 ---
 
-Thanks for stopping by!
+thanks for stopping by!
