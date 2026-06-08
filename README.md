@@ -5,19 +5,16 @@
     </summary>
   </ul>
 </div>
-
-🌿 a 24-year-old computer & information science engineer<br />
-🌱 enjoy building games, tools, and small creative project<br />
-🌿 always happy to learn and improve
+i'm a 24-year-old computer & information science engineer that enjoys building games, tools, or small creative projects.<br />
 
 ---
 
-### 🌙 tech & tools
+### 🌿 tech & tools
 - languages: `Bash`, `Python`, `C/C++`, `C#`, `Java`, `JavaScript/TypeScript`, `HTML`, `CSS`, `MATLAB`, `SQL`, `OCaml`
 - tools: `Git`, `GitHub`, `VS Code/VS Codium`, `Eclipse`, `IntelliJ`, `DBeaver`, `Insomnia`, `Godot`, `Unity`, `Unreal Engine`
 - os: `Linux Omarchy` *(primary)*, `Windows 11`
 
-### 🧺 featured projects
+### 🌿 featured projects
 <table>
   <tr>
     <td><a href="https://bambiroe.github.io/grimoire-ts/">grimoire.ts</a></td>
@@ -36,7 +33,7 @@
   </tr>
 </table>
 
-### ✨ contact me
+### 🌿 contact me
 - [@bambiroe](https://github.com/bambiroe) - github
 - [@bambiroe](https://gitlab.com/bambiroe) - gitlab
 - [@bambiroe](https://userstyles.world/user/bambiroe) - userstyles
