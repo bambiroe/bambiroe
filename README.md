@@ -5,7 +5,7 @@
     </summary>
   </ul>
 </div>
-i'm a 24-year-old computer & information science engineer that enjoys building games, tools, or small creative projects.<br />
+i'm a 25-year-old computer & information science engineer that enjoys building games, tools, or small creative projects.<br />
 
 ---
 
